@@ -48,13 +48,13 @@ Each project
 PP | X |   |   |
 GD | / |   |   |
 RD | / |   |   |
-MD |   |   |   |
+MD | X |   |   |
 AMR|   |   |   |
 PVD|   |   |   |
 RV |   |   |   |
 UGP|   |   |   |
-High-Priority Progress:|2.0 of 16|(13%)
-Total Progress:        |2.0 of 24|(08%)
+High-Priority Progress:|3.0 of 16|(19%)
+Total Progress:        |3.0 of 24|(13%)
 
 KEY:
 X = 100% Complete
