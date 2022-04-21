@@ -46,15 +46,15 @@ Each project
    |Imp|Dra|Opt|
    |:- |:- |:- |
 PP | X |   |   |
-GD | / |   |   |
-RD | / |   |   |
+GD | X |   |   |
+RD | X |   |   |
 MD | X |   |   |
 EMR|   |   |   |
 PVD|   |   |   |
 RV |   |   |   |
 UGP|   |   |   |
-High-Priority Progress:|3.0 of 16|(19%)
-Total Progress:        |3.0 of 24|(13%)
+High-Priority Progress:|4.0 of 16|(25%)
+Total Progress:        |4.0 of 24|(17%)
 
 KEY:
 X = 100% Complete
