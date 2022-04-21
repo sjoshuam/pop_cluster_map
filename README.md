@@ -62,6 +62,7 @@ X = 100% Complete
 
 
 #### to-dos and notes
++ Change the KNN to use a precomputed geographic distance matrix
 
 ## directory layout
 
