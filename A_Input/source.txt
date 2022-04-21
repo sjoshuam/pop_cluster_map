@@ -1,0 +1,6 @@
+Source, Variable, Table, Source File
+data.census.gov, Total population (SEX AND AGE > Total population), DP05, ACSDP5Y2020.DP05_2022-04-21T112212.zip
+data.census.gov, 65 years and over (SEX AND AGE > Total population), DP05, ACSDP5Y2020.DP05_2022-04-21T112212.zip
+data.census.gov, White Alone (HISPANIC OR LATINO AND RACE > Not Hispanic or Latino), DP05, ACSDP5Y2020.DP05_2022-04-21T112212.zip
+data.census.gov, High Income, DP03, ACSDP5Y2020.DP03_2022-04-21T112530.zip
+electionlab.mit.edu/data, POTUS Vote 2020, County Presidential Election Returns, countypres_2000-2020.csv
