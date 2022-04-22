@@ -49,12 +49,12 @@ PP | X |   |   |
 GD | X |   |   |
 RD | X |   |   |
 MD | X |   |   |
-EMR|   |   |   |
+EMR| X |   |   |
 PVD|   |   |   |
 RV |   |   |   |
-UGP|   |   |   |
-High-Priority Progress:|4.0 of 16|(25%)
-Total Progress:        |4.0 of 24|(17%)
+UGP| / |   |   |
+High-Priority Progress:|5.5 of 16|(34%)
+Total Progress:        |5.5 of 24|(23%)
 
 KEY:
 X = 100% Complete
@@ -63,6 +63,7 @@ X = 100% Complete
 
 #### to-dos and notes
 + Change the KNN to use a precomputed geographic distance matrix
++ Scale tract-level potus vote to match national totals
 
 ## directory layout
 
@@ -72,3 +73,11 @@ numbered for the same reason.
 + B_Progress - Contains intermediate data as needed.
 + C_Output - Project's final products (tables and visualizations)
 + Z_Admin - Contain context and planning documentation as needed.
+
+## data sources
++ data.census.gov (2020 census; census tract level)
+    + tract centroids (.dbf files)
+    + total households and households with income ≥$200,000 (table DP03)
+    + total population, ≥65 years old, and non-hispanic white (table DP05)
++ electionlab.mit.edu/data (2020 potus election data)
+    + total voters and republican voters (county presidential election returns)
