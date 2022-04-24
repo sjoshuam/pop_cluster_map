@@ -66,7 +66,9 @@ X = 100% Complete
 + Scale tract-level potus vote to match national totals
 + use a KNN  cluster assignment step to smooth out irregular cluster polygons
 + Make cluster polygon code more reliable
-+ Generate cluster k decision-making consensus across agglom and dbscan
++ Make cluster k decision-making coherent across agglom and dbscan
++ Change census profile vars to be potus, education, life expectency, income per cap.
+    + This correspond to HDI + politics
 
 ## directory layout
 
