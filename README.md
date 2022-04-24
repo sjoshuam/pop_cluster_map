@@ -64,6 +64,9 @@ X = 100% Complete
 #### to-dos and notes
 + Change the KNN to use a precomputed geographic distance matrix
 + Scale tract-level potus vote to match national totals
++ use a KNN  cluster assignment step to smooth out irregular cluster polygons
++ Make cluster polygon code more reliable
++ Generate cluster k decision-making consensus across agglom and dbscan
 
 ## directory layout
 
