@@ -65,8 +65,7 @@ X = 100% Complete
 + Change the KNN to use a precomputed geographic distance matrix
 + Scale tract-level potus vote to match national totals
 + use a KNN  cluster assignment step to smooth out irregular cluster polygons
-+ Make cluster polygon code more reliable
-+ Make cluster k decision-making coherent across agglom and dbscan
++ Make cluster k decision-making search for 95% solutions
 + Change census profile vars to be potus, education, life expectency, income per cap.
     + This correspond to HDI + politics
 
