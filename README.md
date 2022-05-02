@@ -53,8 +53,10 @@ EMR| X |   |   |
 PVD|   |   |   |
 RV |   |   |   |
 UGP| / |   |   |
-High-Priority Progress:|5.5 of 16|(34%)
-Total Progress:        |5.5 of 24|(23%)
+W  | 55| 30| 15|
+
+   Total Progress: (55 * 5.5 + 30 * 0.0 + 15 * 0.0) / (100 * 8) = 38%
+Priority Progress: (55 * 5.5 + 30 * 0.0 + 00 * 0.0) / (085 * 8) = 44%
 
 KEY:
 X = 100% Complete
@@ -68,6 +70,7 @@ X = 100% Complete
 + Make cluster k decision-making search for 95% solutions
 + Change census profile vars to be potus, education, life expectency, income per cap.
     + This correspond to HDI + politics
++ Do agglom, then agglom within agglom, instead of agglom + dbscan
 
 ## directory layout
 
