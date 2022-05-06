@@ -71,7 +71,7 @@ X = 100% Complete
 + Change census profile vars to be potus, education, life expectency, income per cap.
     + This correspond to HDI + politics
 + Do agglom, then agglom within agglom, instead of agglom + dbscan
-+ use outlier detect to discard the most isolated points? (could also use land area)
++ Use land area to discard the most isolated points (can also use ML if necessary)
 
 ## directory layout
 
