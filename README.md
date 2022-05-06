@@ -43,7 +43,7 @@ Each project
 
 #### task tracking matrix
 
-   |Imp|Dra|Opt|
+   | D1| D2| D3|
    |:- |:- |:- |
 PP | X |   |   |
 GD | X |   |   |
@@ -63,7 +63,7 @@ X = 100% Complete
 / = ≥50% Complete
 
 
-#### to-dos and notes
+#### to-dos and notes (mostly for draft 2)
 + Change the KNN to use a precomputed geographic distance matrix
 + Scale tract-level potus vote to match national totals
 + use a KNN  cluster assignment step to smooth out irregular cluster polygons
@@ -71,6 +71,7 @@ X = 100% Complete
 + Change census profile vars to be potus, education, life expectency, income per cap.
     + This correspond to HDI + politics
 + Do agglom, then agglom within agglom, instead of agglom + dbscan
++ use outlier detect to discard the most isolated points? (could also use land area)
 
 ## directory layout
 
