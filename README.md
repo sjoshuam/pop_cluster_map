@@ -50,28 +50,29 @@ GD | X |   |   |
 RD | X |   |   |
 MD | X |   |   |
 EMR| X |   |   |
-PVD|   |   |   |
-RV |   |   |   |
-UGP| / |   |   |
+PVD| X |   |   |
+RV | X |   |   |
+UGP| X |   |   |
 W  | 55| 30| 15|
 
-   Total Progress: (55 * 5.5 + 30 * 0.0 + 15 * 0.0) / (100 * 8) = 38%
-Priority Progress: (55 * 5.5 + 30 * 0.0 + 00 * 0.0) / (085 * 8) = 44%
+   Total Progress: (55 * 8.0 + 30 * 0.0 + 15 * 0.0) / (100 * 8) = 55%
+Priority Progress: (55 * 8.0 + 30 * 0.0 + 00 * 0.0) / (085 * 8) = 65%
 
 KEY:
 X = 100% Complete
 / = ≥50% Complete
 
 
-#### to-dos and notes (mostly for draft 2)
+#### to-dos and notes (for draft 2)
 + Change the KNN to use a precomputed geographic distance matrix
 + Scale tract-level potus vote to match national totals
-+ use a KNN  cluster assignment step to smooth out irregular cluster polygons
-+ Make cluster k decision-making search for 95% solutions
 + Change census profile vars to be potus, education, life expectency, income per cap.
     + This correspond to HDI + politics
 + Do agglom, then agglom within agglom, instead of agglom + dbscan
 + Use land area to discard the most isolated points (can also use ML if necessary)
++ Change the clustering approach to iterate through k number of clusters
+    + OR Make cluster k decision-making search for 95% solutions
++ Mask Canada and Mexico from map (also clip the overflow on the elbow chart)
 
 ## directory layout
 
