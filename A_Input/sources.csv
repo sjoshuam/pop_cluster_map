@@ -1,0 +1,6 @@
+DATASET,DATA_USED,CREATOR,SOURCE,VAR_NAME,FILE_NAME,OBJ_NAME
+DP02 Social Characteristics,Bachlor's Degree,US Census,data.census.gov,GEO_ID;DP02_0068E,ACSDP5Y2020.DP02_data_with_overlays_2022-03-18T095618.csv.zip,education
+DP03 Economic Characteristics,Income Per Capita,US Census,data.census.gov,GEO_ID;DP03_0088E,ACSDP5Y2020.DP03_data_with_overlays_2022-04-07T230902.csv.zip,income
+DP05 Demographic and Housing Estimates,Total Population AND  Non-Hispanic White,US Census,data.census.gov,GEO_ID;DP05_0001E;DP05_0077E,ACSDP5Y2020.DP05_data_with_overlays_2022-04-21T111919.csv.zip,population
+2020 County Presidential Election Returns,2020 Republican Vote,MIT Election Lab,electionlab.mit.edu/data,year;state_po;county_fips;mode;party;candidatevotes;totalvotes,countypres_2000-2020.csv.zip,vote
+United States Small-Area Life Expectancy Proj.,Life Expectancy,NAPHSIS / CDC NCHS,naphsis.org/usaleep,State;Census Tract Number;Life Expectancy,U.S._Life_Expectancy_at_Birth_by_State_and_Census_Tract_-_2010-2015.csv.zip,lifespan
