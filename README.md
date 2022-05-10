@@ -48,16 +48,16 @@ Each project
 PP | X | X |   |
 GD | X | X |   |
 RD | X | X |   |
-MD | X |   |   |
+MD | X | / |   |
 EMR| X |   |   |
 PVD| X |   |   |
 RV | X |   |   |
 UGP| X |   |   |
-N  |8.0|3.0|0.0|
+N  |8.0|3.5|0.0|
 W  | 55| 30| 15|
 
-Priority Progress: (55 * 8.0 + 30 * 3.0 + 00 * 0.0) / (085 * 8) = 78%
-   Total Progress: (55 * 8.0 + 30 * 3.0 + 15 * 0.0) / (100 * 8) = 66%
+Priority Progress: (55 * 8.0 + 30 * 3.5 + 00 * 0.0) / (085 * 8) = 80%
+   Total Progress: (55 * 8.0 + 30 * 3.5 + 15 * 0.0) / (100 * 8) = 68%
 
 KEY:
 X = 100% Complete
