@@ -50,14 +50,14 @@ GD | X | X |   |
 RD | X | X |   |
 MD | X | X |   |
 CSS| X | X |   |
-PVD| X |   |   |
+PVD| X | / |   |
 RV | X |   |   |
 UGP| X | / |   |
-N  |8.0|5.5|0.0|
+N  |8.0|6.0|0.0|
 W  | 55| 30| 15|
 
-Priority Progress: (55 * 8.0 + 30 * 5.5 + 00 * 0.0) / (085 * 8) = 89%
-   Total Progress: (55 * 8.0 + 30 * 5.5 + 15 * 0.0) / (100 * 8) = 76%
+Priority Progress: (55 * 8.0 + 30 * 6.0 + 00 * 0.0) / (085 * 8) = 91%
+   Total Progress: (55 * 8.0 + 30 * 6.0 + 15 * 0.0) / (100 * 8) = 78%
 
 KEY:
 X = 100% Complete
@@ -68,6 +68,7 @@ X = 100% Complete
 + Change the KNN to use a precomputed geographic distance matrix
 + Mask Canada and Mexico from map (also clip the overflow on the elbow chart)
 + Fix the cluster level 2 stats format to be to_csv() compatible
++ Conform CSS1 to function-execute format
 
 ## directory layout
 
