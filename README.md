@@ -34,7 +34,7 @@ Each project
 + MD  (Model Data) – Deploy models on the refined data
   – Generate model results
   – Determine the quality of model results
-+ EMR (Enrich Model Results) – Contextualize model with supplemental data
++ CSS (Calculate Cluster Statistics) – Contextualize model with supplemental data
   – Partition secondary data to match model results
   – Calculate statistics for each partition
 + PVD (Prepare Visualization Data) – Generate results extracts for visuals
@@ -49,15 +49,15 @@ PP | X | X |   |
 GD | X | X |   |
 RD | X | X |   |
 MD | X | X |   |
-EMR| X |   |   |
+CSS| X | X |   |
 PVD| X |   |   |
 RV | X |   |   |
-UGP| X |   |   |
-N  |8.0|4.0|0.0|
+UGP| X | / |   |
+N  |8.0|5.5|0.0|
 W  | 55| 30| 15|
 
-Priority Progress: (55 * 8.0 + 30 * 4.0 + 00 * 0.0) / (085 * 8) = 82%
-   Total Progress: (55 * 8.0 + 30 * 4.0 + 15 * 0.0) / (100 * 8) = 70%
+Priority Progress: (55 * 8.0 + 30 * 5.5 + 00 * 0.0) / (085 * 8) = 89%
+   Total Progress: (55 * 8.0 + 30 * 5.5 + 15 * 0.0) / (100 * 8) = 76%
 
 KEY:
 X = 100% Complete
