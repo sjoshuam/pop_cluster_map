@@ -70,6 +70,8 @@ X = 100% Complete
 + Fix the cluster level 2 stats format to be to_csv() compatible
 + Conform CSS1 to function-execute format
 + Add HDI overlays to L2?
++ Replace life expectancy with HDI
++ Improve education data to match HDI formula
 
 ## directory layout
 
