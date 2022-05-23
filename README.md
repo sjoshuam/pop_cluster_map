@@ -39,6 +39,7 @@ Each project
   – Calculate statistics for each partition
 + PVD (Prepare Visualization Data) – Generate results extracts for visuals
 + RV  (Render Visualization) – Visual results
++ TC  (Test Code) - devise tests to confirm code works correctly
 + UGP (Update GitHub Portfolio) –  Showcase project in GitHub portfolio
 
 #### task tracking matrix
@@ -50,14 +51,15 @@ GD | X | X |   |
 RD | X | X |   |
 MD | X | X |   |
 CSS| X | X |   |
-PVD| X | / |   |
+PVD| X | X |   |
 RV | X | / |   |
+TC | X |   |   |
 UGP| X | / |   |
-N  |8.0|6.5|0.0|
+N  |9.0|7.0|0.0|
 W  | 55| 30| 15|
 
-Priority Progress: (55 * 8.0 + 30 * 6.5 + 00 * 0.0) / (085 * 8) = 93%
-   Total Progress: (55 * 8.0 + 30 * 6.5 + 15 * 0.0) / (100 * 8) = 79%
+Priority Progress: (55 * 8.0 + 30 * 7.0 + 00 * 0.0) / (085 * 9) = 84%
+   Total Progress: (55 * 8.0 + 30 * 7.0 + 15 * 0.0) / (100 * 9) = 72%
 
 KEY:
 X = 100% Complete
