@@ -52,14 +52,14 @@ RD | X | X |   |
 MD | X | X |   |
 CSS| X | X |   |
 PVD| X | X |   |
-RV | X | / |   |
+RV | X | X |   |
 TC | X |   |   |
 UGP| X | / |   |
-N  |9.0|7.0|0.0|
+N  |9.0|7.5|0.0|
 W  | 55| 30| 15|
 
-Priority Progress: (55 * 8.0 + 30 * 7.0 + 00 * 0.0) / (085 * 9) = 84%
-   Total Progress: (55 * 8.0 + 30 * 7.0 + 15 * 0.0) / (100 * 9) = 72%
+Priority Progress: (55 * 8.0 + 30 * 7.5 + 00 * 0.0) / (085 * 9) = 87%
+   Total Progress: (55 * 8.0 + 30 * 7.5 + 15 * 0.0) / (100 * 9) = 74%
 
 KEY:
 X = 100% Complete
@@ -67,12 +67,9 @@ X = 100% Complete
 
 
 #### to-dos and notes (for draft 2)
-+ Change the KNN to use a precomputed geographic distance matrix
 + Mask Canada and Mexico from map (also clip the overflow on the elbow chart)
 + Fix the cluster level 2 stats format to be to_csv() compatible
 + Conform CSS1 to function-execute format
-+ Add HDI overlays to L2?
-+ Replace life expectancy with HDI
 + Improve education data to match HDI formula
 
 ## directory layout
