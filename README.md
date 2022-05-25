@@ -67,7 +67,6 @@ X = 100% Complete
 
 
 #### to-dos and notes (for draft 2)
-+ Mask Canada and Mexico from map (also clip the overflow on the elbow chart)
 + Fix the cluster level 2 stats format to be to_csv() compatible
 + Conform CSS1 to function-execute format
 + Improve education data to match HDI formula
