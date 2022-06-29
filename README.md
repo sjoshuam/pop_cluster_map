@@ -52,14 +52,14 @@ RD | X | X |   |
 MD | X | X |   |
 CSS| X | X |   |
 PVD| X | X |   |
-RV | X | / |   |
+RV | X | X |   |
 TC | X |   |   |
 UGP| X | X |   |
-N  |9.0|7.5|0.0|
+N  |9.0|8.0|0.0|
 W  | 55| 30| 15|
 
-Priority Progress: (55 * 8.0 + 30 * 7.5 + 00 * 0.0) / (085 * 9) = 87%
-   Total Progress: (55 * 8.0 + 30 * 7.5 + 15 * 0.0) / (100 * 9) = 74%
+Priority Progress: (55 * 8.0 + 30 * 8.0 + 00 * 0.0) / (085 * 9) = 89%
+   Total Progress: (55 * 8.0 + 30 * 8.0 + 15 * 0.0) / (100 * 9) = 76%
 
 KEY:
 X = 100% Complete
@@ -71,7 +71,7 @@ X = 100% Complete
 + Conform CSS1 to function-execute format
 + Improve education data to match HDI formula
 + Figure out why Northern Maine is splitting off
-+ Add the curve panel
++ Document cache settings and functionality
 
 ## directory layout
 
