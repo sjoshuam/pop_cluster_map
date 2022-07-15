@@ -53,13 +53,13 @@ MD | X | X |   |
 CSS| X | X |   |
 PVD| X | X |   |
 RV | X | X |   |
-TC | X |   |   |
+TC | X | X |   |
 UGP| X | X |   |
-N  |9.0|8.0|0.0|
+N  |9.0|9.0|0.0|
 W  | 55| 30| 15|
-
-Priority Progress: (55 * 8.0 + 30 * 8.0 + 00 * 0.0) / (085 * 9) = 89%
-   Total Progress: (55 * 8.0 + 30 * 8.0 + 15 * 0.0) / (100 * 9) = 76%
+s
+Priority Progress: (55 * 9.0 + 30 * 9.0 + 00 * 0.0) / (085 * 9) = 100%
+   Total Progress: (55 * 9.0 + 30 * 9.0 + 15 * 0.0) / (100 * 9) =  85%
 
 KEY:
 X = 100% Complete
@@ -70,7 +70,7 @@ X = 100% Complete
 + Fix the cluster level 2 stats format to be to_csv() compatible
 + Conform CSS1 to function-execute format
 + Improve education data to match HDI formula
-+ Figure out why Northern Maine is splitting off
++ Figure out why Northern Maine is splitting off and/or resolve
 + Document cache settings and functionality
 
 ## directory layout
